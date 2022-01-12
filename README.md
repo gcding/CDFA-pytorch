@@ -50,4 +50,6 @@ Acknowledgement
 
 Thanks to these repositories
 - [C-3 Framework](https://github.com/gjy3035/C-3-Framework)
-- [EDSC](https://github.com/Xianhang/EDSC-pytorch)
+- [EDSC-pytorch](https://github.com/Xianhang/EDSC-pytorch)
+
+If you have any question, please feel free to contact me. (gcding@whu.edu.cn)
