@@ -35,14 +35,21 @@ We are good to run:
 python test.py --model CDFA --model_state ./model/result_gcc_qnrf.pth --out ./out/out.png
 ```
 
-We will release more pre-trained models soon.
-Please see the paper for more details.
+Please see the paper for more details about network.
 
 Citation
 ---
 
 ```
-Coming soon
+@ARTICLE{9788041,
+  author={Ding, Guanchen and Yang, Daiqin and Wang, Tao and Wang, Sihan and Zhang, Yunfei},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Crowd counting via unsupervised cross-domain feature adaptation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMM.2022.3180222}}
 ```
 
 Acknowledgement
